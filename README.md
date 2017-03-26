@@ -9,4 +9,4 @@ Just make sure the following three items are taken care of and you are off to th
 2) Update the destination phone number - Line 29 - Make sure the format of the number is +1xxxYYYzzzz
 3) Make sure Python Requests is installed - http://docs.python-requests.org/en/master/
 
-<font color="PINK">Questions? Please setup time via http://www.alexanderdonn.com for help!</font>
+<font color=#ffb6c1>Questions? Please setup time via http://www.alexanderdonn.com for help!</font>
