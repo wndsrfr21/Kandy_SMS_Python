@@ -1,5 +1,4 @@
-# KandySMSPython
-Python helper library for Kandy SMS API
+# KandySMSPython - Python helper library for Kandy SMS API
 
 Interested in getting the Kandy SMS API working in Python? 
 
