@@ -7,7 +7,8 @@ The file <a href="https://github.com/wndsrfr21/KandySMSPython/blob/master/kandy_
 Just make sure the following three items are taken care of and you are off to the races:
 1) Get Your API Keys - Lines 5 & 6 - Create an account on http://developer.kandy.io/ and copy out the "domain api key" and "domain api secret" 
 2) Update the destination phone number - Line 29 - Make sure the format of the number is +1xxxYYYzzzz
-3) Make sure Python Requests is installed - http://docs.python-requests.org/en/master/
+3) Make sure Python is installed - https://www.python.org/
+4) Make sure Python Requests is installed - http://docs.python-requests.org/en/master/
 
 Running the KandySMSPython.py File
 Step 1 - Open a terminal console (press the command button and the space bar and then type "terminal" within the new popup)
