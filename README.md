@@ -11,9 +11,9 @@ Make sure the following three items are taken care of before running the code:
 4) Make sure Python Requests is installed - http://docs.python-requests.org/en/master/
 
 Running the KandySMSPython.py code:
-1) - Open a terminal console (press the command button and the space bar and then type "terminal" within the new popup)
-2) - Navigate to the folder containing the file called "KandySMSPython.py"
-3) - Type the command "python kandysmspython.py" and hit enter
+1) Open a terminal console (press the command button and the space bar and then type "terminal" within the new popup)
+2) Navigate to the folder containing the file called "KandySMSPython.py"
+3) Type the command "python kandysmspython.py" and hit enter
 
 The system will think for couple of seconds and then the destination number should get a text message!
 
