@@ -10,7 +10,7 @@ Make sure the following three items are taken care of before running the code:
 4) Make sure Python Requests is installed - http://docs.python-requests.org/en/master/
 
 Running the KandySMSPython.py code:
-1) Open a Terminal Console - press the command button and the space bar and then type "terminal" within the new popup or follow this tutorial (http://www.wikihow.com/Open-a-Terminal-Window-in-Mac)
+1) Open a Terminal Console (Mac/Linux/Unix) or command prompt (Windows)- press the command button and the space bar and then type "terminal" within the new popup or follow this tutorial for Mac (http://www.wikihow.com/Open-a-Terminal-Window-in-Mac) or this tutorial (http://www.digitalcitizen.life/7-ways-launch-command-prompt-windows-7-windows-8) for Windows
 2) Navigate to the folder containing the file called "KandySMSPython.py"
 3) Type the command "python kandysmspython.py" and hit enter
 
