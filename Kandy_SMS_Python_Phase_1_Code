@@ -2,9 +2,9 @@
 import requests
 import json
 
-domain_key = "DAKe7ad9232e18s1410ca92d8gf11gc62da2"
-domain_api_secret = "DAE3269ef1b585e41c1bdb5a0fc65e3e1f4"
-user_id = "user1"
+domain_key = ""
+domain_api_secret = ""
+user_id = ""
 
 r = requests.get("https://api.kandy.io/v1.2/domains/users/accesstokens?key="+domain_key+"&domain_api_secret="+domain_api_secret+"&user_id="+user_id)
 data = r.json()
