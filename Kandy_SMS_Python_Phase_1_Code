@@ -2,6 +2,15 @@
 import requests
 import json
 
+/*****************************************************
+/* Create an account at http://developer.kandy.io and copy out your "domain key" and "api secret" into the section immediately below.
+/* The keys that you are looking for should be listed on the first page after you login. Here is a sample of what you should see: http://wndsrfr21.imgur.com/all/
+/* If you have not yet created a project, click on the large "create project" button to create a new project.
+/*
+/* MUST-DO: In order to enable sending SMS you need to enter a comp-code within the "plan" section of the developer website.
+/* Click on the gear to the right of the project, then click on the word "plan" (reference image: http://imgur.com/a/ihxnd) and finally type in "hackkandy" within the "have a promo code?" field. 
+/*
+/* For the field "user_id" below, you can typically type "user1" assuming that you went with the default settings when creating the new project. If you typed in another word for the user when creating the new project, make sure to use that alternative word. 
 domain_key = ""
 domain_api_secret = ""
 user_id = ""
